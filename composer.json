@@ -9,5 +9,10 @@
             "name": "Adrien Belleflamme",
             "email": "adrien.belleflamme@transmeat.be"
         }
-    ]
+    ],
+    "extra": {
+        "installer-paths": {
+            "web/modules/contrib/{$name}": ["type:drupal-module"]
+        }
+    }
 }
