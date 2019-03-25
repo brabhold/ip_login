@@ -1,0 +1,13 @@
+{
+    "name": "brabhold/ip_login",
+    "type": "project",
+    "require": {
+        "brabhold/field_ipaddress": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Adrien Belleflamme",
+            "email": "adrien.belleflamme@transmeat.be"
+        }
+    ]
+}
